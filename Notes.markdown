@@ -58,7 +58,7 @@ Boring compared to discomfort to stillness (*or a hum perhaps*)
 Zvi, a college Junior worries he lacks the ability to converse with Professors and instead e-mails
 them due to transactional thinking
 
-## A Hot Trend: The Internet, Social Media & The Elderly
+## A Hot Trend: The Internet, Social Media & The Elderly by Anita Kamiel
 
 The elderly use the internet (71%) and social media (34%) to bridge the gap with loved ones,
 decreasing isolation. It is a gateway to the outside, inaccessible world
