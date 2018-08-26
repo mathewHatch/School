@@ -1,6 +1,6 @@
-#The Flower
+# The Flower
 
-##Adjectives
+## Adjectives
 - fresh
 - sweet
 - clean
@@ -9,7 +9,7 @@
 - shriveled
 - hard
 
-##Verbs
+## Verbs
 - brings
 - melts
 - thought
@@ -49,7 +49,7 @@
 - swelling
 - forfeit
 
-#Abaude
+# Abaude
 
 ##Adjectives
 - all
@@ -81,7 +81,7 @@
 - locked-up
 - intricate
 
-##Verbs
+## Verbs
 - work
 - get
 - waking
